@@ -6,7 +6,7 @@ blurb:
   heading: What WACHI October festival 2020
   text: アホほど飲んで、そこそこ酔っ払って、ええもん食って「ガハハ」って笑うやつです
 intro:
-  heading: オクフェスの話
+  heading: 当日飲み食いできるもの
   text: なんかかく
 products: []
 values:
