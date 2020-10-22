@@ -1,19 +1,10 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: img/3c35742f1bb83be71184b0a51c8c427a_400x400.jpeg
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: 〒604-8124 京都府京都市中京区帯屋町571番地 高倉四条上ル さたけビル4F
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: 15:00–23:00
 ---
-
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
-
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+住所、営業時間は以下のとおりです
