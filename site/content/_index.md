@@ -8,7 +8,9 @@ blurb:
 intro:
   heading: 当日飲み食いできるもの
   text: なんかかく
-products: []
+products:
+  - image: img/3c35742f1bb83be71184b0a51c8c427a_400x400.jpeg
+    text: ビールの画像とか
 values:
   heading: Value
   text: Value
