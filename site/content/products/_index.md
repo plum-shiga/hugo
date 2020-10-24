@@ -5,13 +5,13 @@ heading: What we offer
 description: ほげほで
 intro:
   blurbs:
-    - image: img/ek_kgbvvcaad9jn.jpeg
-      text: ほげほで
+    - image: img/122306972_3335759523126938_8854531481244620615_n.jpg
+      text: 当日はマースジョッキのメガデカビールで乾杯！　SNS映えは間違いありません！
   heading: メニューの考え
   description: ほげほげ
 main:
-  heading: メニューの説明とか
-  description: メニューの説明とか
+  heading: お酒のアテに！
+  description: 当日はお酒のアテに自慢の燻製、食べていってください！　ビールと肉で優勝！
   image1:
     alt: 画像
     image: img/640x640_rect_120043201.jpg
