@@ -7,8 +7,8 @@ intro:
   blurbs:
     - image: img/122306972_3335759523126938_8854531481244620615_n.jpg
       text: 当日はマースジョッキのメガデカビールで乾杯！　SNS映えは間違いありません！
-  heading: メニューの考え
-  description: ほげほげ
+  heading: 当日のお食事
+  description: 　
 main:
   heading: お酒のアテに！
   description: 当日はお酒のアテに自慢の燻製、食べていってください！　ビールと肉で優勝！
