@@ -5,8 +5,14 @@ heading: What we offer
 description: ほげほで
 intro:
   blurbs:
-    - image: img/122306972_3335759523126938_8854531481244620615_n.jpg
-      text: 当日はマースジョッキのメガデカビールで乾杯！　SNS映えは間違いありません！
+    - image: img/ek_kgbvvcaad9jn.jpeg
+      text: 久々にタップオン！めちゃくちゃ旨い本場ドイツのピルスナー・リーゲレ樽生です。ぜひマースジョッキでお楽しみください！
+    - image: img/640x640_rect_120043204.jpg
+      text: ドイツビールボトル各種入荷！白ビール専業、ミュンヘンのシュナイダーなど多彩なドイツビール入荷してます
+    - text: とろっとろの豚煮込みアイスバイン、みんな大好きカリーブルストなどビールが進むドイツ料理
+      image: img/elac_duvcae72ke.jpeg
+    - text: 世界的なビールコンペWBA2020でワールドベストビア受賞！富士桜高原麦酒のゆずヴァイツェン樽生、１樽限定入荷売り切れ御免です！
+      image: img/ek_kgbvvcaad9jn.jpeg
   heading: 当日のお食事
   description: 　
 main:
@@ -14,10 +20,10 @@ main:
   description: 当日はお酒のアテに自慢の燻製、食べていってください！　ビールと肉で優勝！
   image1:
     alt: 画像
-    image: img/640x640_rect_120043201.jpg
+    image: img/122306972_3335759523126938_8854531481244620615_n.jpg
   image2:
     alt: 画像
-    image: img/640x640_rect_120043204.jpg
+    image: img/122056466_956296118227282_499884744187024291_n.jpg
   image3:
     alt: 画像
     image: img/122286695_349272402801627_5936102063714536253_n.jpg
