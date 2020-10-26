@@ -5,15 +5,31 @@ heading: What we offer
 description: ほげほで
 intro:
   blurbs:
-    - image: img/ek_kgbvvcaad9jn.jpeg
-      text: 久々にタップオン！めちゃくちゃ旨い本場ドイツのピルスナー・リーゲレ樽生です。ぜひマースジョッキでお楽しみください！
-    - image: img/640x640_rect_120043204.jpg
-      text: ドイツビールボトル各種入荷！白ビール専業、ミュンヘンのシュナイダーなど多彩なドイツビール入荷してます
+    - image: img/スクリーンショット-2020-10-26-午後3.06.56.png
+      text: >-
+        久々にタップオン！めちゃくちゃ旨い本場ドイツのピルスナー・リーゲレ樽生です。ぜひマースジョッキでお楽しみください！
+
+
+        引用元サイトはこちら
+
+        http://www.showa-boeki.co.jp/riegele/?fbclid=IwAR0IwtXpwgX0Digq7cP_k5oFEBviNpUBX2cX_e9lLdFcfCVFYBRqrMzbKKo
+    - image: img/スクリーンショット-2020-10-26-午後3.08.41.png
+      text: |
+        ドイツビールボトル各種入荷！白ビール専業、ミュンヘンのシュナイダーなど多彩なドイツビール入荷してます。
+
+        引用元サイトはこちら
     - text: とろっとろの豚煮込みアイスバイン、みんな大好きカリーブルストなどビールが進むドイツ料理
       image: img/elac_duvcae72ke.jpeg
-    - text: 世界的なビールコンペWBA2020でワールドベストビア受賞！富士桜高原麦酒のゆずヴァイツェン樽生、１樽限定入荷売り切れ御免です！
-      image: img/ek_kgbvvcaad9jn.jpeg
-  heading: 当日のお食事
+    - text: >-
+        世界的なビールコンペWBA2020でワールドベストビア受賞！富士桜高原麦酒のゆずヴァイツェン樽生、１樽限定入荷売り切れ御免です！
+
+
+        引用元サイトはこちら
+
+
+        https://www.fujizakura-beer.jp/yuzu-2/?fbclid=IwAR1hBXen8vitfKhkV4x4z3sc9cQVenPzqrBjffrAH42LYrFQTfsxy-n6quE
+      image: img/スクリーンショット-2020-10-26-午後3.08.56.png
+  heading: 当日のおすすめ！
   description: 　
 main:
   heading: お酒のアテに！
